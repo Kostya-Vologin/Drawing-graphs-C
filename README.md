@@ -1,4 +1,4 @@
-# Drawing-graphs-C
+# drawing-graphs-c
 A program for drawing graphs of mathematical functions, developed in the C language.
 
 Libraries used: [TinyExpr](https://github.com/codeplea/tinyexpr) and WinBGIm (graphics library).
