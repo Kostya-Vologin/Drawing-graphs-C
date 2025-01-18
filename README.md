@@ -15,7 +15,7 @@ The program will warn you in red text if you have entered something incorrectly:
 ## Program functions:
 * entering formulas (the maximum number is 10, after entering the graph automatically appears in a rectangular coordinate system);
 
-* selection of ranges for X and Y, initially the program has the values: for X вЂ” -30, 30 (min and max, respectively) and for Y вЂ” -30, 30 (min and max, respectively), after entering the values, the chart ranges change;
+* selection of ranges for X and Y, initially the program has the values: for X &mdash; -30, 30 (min and max, respectively) and for Y &mdash; -30, 30 (min and max, respectively), after entering the values, the chart ranges change;
 
 * drawing graphs using the entered formulas (each graph has a separate color);
 
